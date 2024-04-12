@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\bin\Debug\net8.0\ProjetoSintaxeBasic.exe
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\bin\Debug\net8.0\ProjetoSintaxeBasic.deps.json
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\bin\Debug\net8.0\ProjetoSintaxeBasic.runtimeconfig.json
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\bin\Debug\net8.0\ProjetoSintaxeBasic.dll
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\bin\Debug\net8.0\ProjetoSintaxeBasic.pdb
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.AssemblyInfo.cs
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.dll
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\refint\ProjetoSintaxeBasic.dll
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.pdb
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ProjetoSintaxeBasic.genruntimeconfig.cache
+C:\Users\Usuario\Documents\C# Senai Treino e isso mesmo\C#SintaxeBasic\ProjetoSintaxeBasic\obj\Debug\net8.0\ref\ProjetoSintaxeBasic.dll
